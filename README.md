@@ -60,4 +60,4 @@ cd little-little-fighter-
 <hr />
 
 <h2>💬 Contact & Feedback</h2>
-<p>Feel free to open issues or contact me at: <a href="mailto:karnidv@edu.hac.ac.il">dkarni07@gmail.com</a></p>
+<p>Feel free to open issues or contact me at: <a href="mailto:dkarni07@gmail.com">dkarni07@gmail.com</a></p>
