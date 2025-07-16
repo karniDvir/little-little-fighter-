@@ -1,0 +1,9 @@
+Backround
+1
+Enemies
+Monkey 550 640 0.8
+Dragon 1000 690 0.9
+Deep 1800 600 1.4 0.7 BoxAttack MagicAttack
+Players
+Dennis 300 680 1.4 0.3 Kmeama FireAttack
+Bat 1200 700 1.5 0.1 LightBow IceAttack BatAttack

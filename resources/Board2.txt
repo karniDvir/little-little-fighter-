@@ -1,0 +1,8 @@
+Backround
+1
+Enemies
+Monkey 1500 640 0.5
+Cow 1200 690 0.7
+Julian 990 650 1.5 0.4 Axe BatAttack
+Players
+Louis 300 700 1.2 0.5 WingAttack IceAttack

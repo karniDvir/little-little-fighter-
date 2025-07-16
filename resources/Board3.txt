@@ -1,0 +1,10 @@
+Backround
+2
+Enemies
+Troll 550 640 0.8
+Dragon 1200 690 0.9
+Deep 1800 660 1.4 0.7 BoxAttack MagicAttack
+Julian 1800 700 1.2 0.7 Hammer IceAttack
+Players
+Dennis 300 640 1.2 0.3 SowrdAttack FireAttack
+Deep 500 680 1.6 0.4 Bow SkullAttack
