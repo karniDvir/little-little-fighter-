@@ -7,8 +7,6 @@
 <h2>🎥 Game Demo</h2>
 <!-- Replace this with your actual YouTube video -->
 <p><a href="https://www.youtube.com/watch?v=ii2Uxo9SRBw" target="_blank">▶ Watch on YouTube</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zGlEcuhPjmo" frameborder="0" allowfullscreen></iframe>
-
 <hr />
 
 <h2>🛠️ Technologies Used</h2>
@@ -25,7 +23,7 @@
 <ol>
   <li>Clone the repository and build the project using a C++ compiler with SFML installed.</li>
   <li>Use the arrow keys to move your character.</li>
-  <li>Attack enemies using special keys (e.g., <code>Z</code>, <code>X</code>, or custom bindings).</li>
+  <li>Attack enemies using special keys (e.g., <code>Z</code>, <code>X</code>).</li>
   <li>Fight waves of enemies and survive as long as possible!</li>
 </ol>
 
